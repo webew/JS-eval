@@ -75,7 +75,7 @@ Isolez le code d'affichage d'un utilisateur dans une fonction qui prendra un use
 
 Ajoutez un bouton dans la page. Créez un écouteurs d'événement qui charge les données (en appelant la fonction précédemment créée) lorsqu'on clique sur le bouton.
 
-### Etape 3 : utiliser la source de données datas.json
+### Etape 3 : agissons ! Utiliser la source de données datas.json
 
 Commentez le code du tableau *users* et récupérez avec fetch dans une variable *users* le contenu du fichier *datas/datas.json*. Votre code doit toujours fonctionner et afficher 10 utilisateurs.
 
@@ -88,3 +88,11 @@ Créez une fonction qui renvoie la liste des utilisateurs sous forme de tableau.
 Déplacez vos fonctions dans des modules.
 
 pfiou !..
+
+BONUS ++
+
+Vous êtes à l'aise ?
+
+Créez une classe User avec les propriétés adaptées et une méthode afficher() qui contiendra le code d'affichage d'un utilisateur.
+
+Re-pfiou !
